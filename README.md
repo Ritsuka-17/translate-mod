@@ -1,7 +1,13 @@
-[功能示範影片](https://drive.google.com/file/d/15SC-SPmcVirNSojJSnPud8sOxzzWf3cG/view?usp=drive_link)  
+[功能示範影片](https://drive.google.com/file/d/15SC-SPmcVirNSojJSnPud8sOxzzWf3cG/view?usp=drive_link) 
+-
+翻譯成果↓  
+<img  src="https://github.com/Ritsuka-17/translate-mod/blob/main/README/%E7%BF%BB%E8%AD%AF%E6%88%90%E6%9E%9C.jpg?raw=true" width="40%" />  
+-  
+逆向搜尋↓  
+<img  src="https://github.com/Ritsuka-17/translate-mod/blob/main/README/%E9%80%86%E5%90%91%E6%90%9C%E5%B0%8B.jpg?raw=true" width="40%" />  
 -
   
-初始設定  
+###初始設定###  
 -
 01.下載功能檔  
 [Google雲端檔案](https://drive.google.com/file/d/1cZpqw7gP53SsUiCgWg-IGjCR6HAQg2QQ/view?usp=drive_link "Google雲端檔案")  
@@ -27,11 +33,7 @@ ___
 使用 
 -
 執行[mod300_gui.py]會在右下角隱藏工具  
-預設"alt+g"可以截圖翻譯。  
+預設"alt+g"可以截圖翻譯 與 "alt+g"可以逆向搜尋。  
   
-翻譯成果↓  
-<img  src="https://github.com/Ritsuka-17/translate-mod/blob/main/README/%E7%BF%BB%E8%AD%AF%E6%88%90%E6%9E%9C.jpg?raw=true" width="40%" />  
-  
-逆向搜尋↓  
-<img  src="https://github.com/Ritsuka-17/translate-mod/blob/main/README/%E9%80%86%E5%90%91%E6%90%9C%E5%B0%8B.jpg?raw=true" width="40%" />  
+
   
